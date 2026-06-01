@@ -239,6 +239,12 @@ hr{
     
 
 }
+.middle p{
+    position: relative;
+    top: -5px;
+    font-size: 14px;
+    color: rgb(140, 146, 146);
+}
 .middle2{
      height: 38px;
     width: 550px;
